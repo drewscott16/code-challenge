@@ -7,8 +7,6 @@ export default function App() {
     const [showBoard, setShowBoard] = useState(false);
     const textArea = useRef(null);
 
-    //let value = document.querySelector("textarea").value;
-
     const userClickBtn = () => {
         let userInput = textArea.current.value;
 
