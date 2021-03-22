@@ -1,0 +1,28 @@
+#board {
+    margin-top: 60px;
+    position: relative;
+    display: inline-block;
+}
+
+#output {
+    margin-top: 60px;
+}
+
+#output span {
+    margin-right: 5px;
+}
+
+.grid-row {
+    border: 1px solid #333;
+    max-height: 50px;
+    margin-bottom: -1px;
+}
+
+.grid-column {
+    border: 1px solid #333;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+

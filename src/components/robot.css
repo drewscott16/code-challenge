@@ -1,0 +1,10 @@
+.robot {
+    position: absolute;
+    bottom: 5px;
+    left: 11px;
+    font-weight: 700;
+}
+
+.robot-img {
+    max-width: 30px;
+}
